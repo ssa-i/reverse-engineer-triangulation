@@ -7,3 +7,5 @@ In previous methods, reverse engineering attempts to recreate a program's binary
 RET uses approximations and complex equations in order to deliver a more accurate "guess" to the program's binary code. This reduces the time taken exponentially, and is shown to be at least 600% more powerful. Through parallel threads, you can reverse engineer something that would previously take 40 days in only 30 minutes. 
 
 "Triangulation" is the process that this uses, it utilises an equation where it uses 3 binary code samples as far apart from each other, and uses this to precisely pinpoint the exact binary code in MINUTES. Running this triangulation process is slightly strenuous but since it does its job so quickly, there is no need for concern.
+
+NOTE: This requires Windows Subsystem For Linux 2. More information can be found at the official website.
