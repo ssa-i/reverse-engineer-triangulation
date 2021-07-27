@@ -8,4 +8,4 @@ RET uses approximations and complex equations in order to deliver a more accurat
 
 "Triangulation" is the process that this uses, it utilises an equation where it uses 3 binary code samples as far apart from each other, and uses this to precisely pinpoint the exact binary code in MINUTES. Running this triangulation process is slightly strenuous but since it does its job so quickly, there is no need for concern.
 
-NOTE: This requires Windows Subsystem For Linux 2. More information can be found at the official website.
+UPDATE: This no longer requires Windows Subsystem for Linux, happy reverse engineering 😄
